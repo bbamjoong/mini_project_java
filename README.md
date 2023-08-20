@@ -13,25 +13,45 @@
 │  users.dat (유저 정보 저장)
 
 │
+
 ├─out
+
 │  └─production
+
 │      └─Character_management_Program
+
 │          └─com
+
 │              └─example
+
 │                  └─CharacterManagementProgram
+
 │                          User.class
+
 │                          UserDao.class
+
 │                          UserMain.class
+
 │                          UserUI.class
+
 │
+
 └─src
+
     └─com
+    
         └─example
+        
             └─CharacterManagementProgram
+            
                     User.java	
+                    
                     UserDao.java	
+                    
                     UserMain.java	
+                    
                     UserUI.java	
+                    
 
 
 
