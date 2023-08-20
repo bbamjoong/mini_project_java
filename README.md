@@ -1,6 +1,6 @@
 ### ✨ Java 개인 mini-project
 
-#### 캐릭터 관리 프로그램 - txt파일에 Character 데이터를 관리
+#### 캐릭터 관리 프로그램 - user.dat 파일에 Character 데이터를 관리
 
 ##### 프로그램은 아래 5개의 기능을 가집니다.
 > 1. 캐릭터 생성
